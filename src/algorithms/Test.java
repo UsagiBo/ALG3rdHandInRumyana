@@ -7,10 +7,6 @@ package algorithms;
 
 import java.util.Comparator;
 
-/**
- *
- * @author Tobias
- */
 public class Test
 {
     public static void main(String[] args)
