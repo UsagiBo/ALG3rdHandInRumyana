@@ -6,10 +6,7 @@ package algorithms;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Tobias
- */
+
 public class RedBlackNode<K,V>
 {
     private V value;
