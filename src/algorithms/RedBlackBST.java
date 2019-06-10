@@ -8,10 +8,6 @@ import java.util.Comparator;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Tobias
- */
 public class RedBlackBST<K,V>
 {
     private RedBlackNode<K,V> root;
